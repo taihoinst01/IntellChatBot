@@ -570,7 +570,15 @@ html { scrollbar-arrow-color: #3f3f3f; scrollbar-Track-Color: #93adcb; scrollbar
 .wc-header .btn_home { position:absolute; right:10px; top:7px width:22px; height:19px; background:url(../image/home.png) no-repeat; display:inline-block; z-index:999; margin-top:5px }
 .wc-header .btn_home :hover{ background:url(../image/home_hover.png) no-repeat}
 
-
+.cjLinkBtn{
+  background: url(../image/cj_azure_search_btd.png) no-repeat;
+  position: absolute;
+  top: 24%;
+  left: 22%;
+  width: 142px;
+  height: 142px;
+  transform: translateX(20%);
+}
 
 
 
