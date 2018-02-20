@@ -21,6 +21,18 @@ body .wc-app, .wc-app button, .wc-app input, .wc-app textarea {font-family: 'Seg
 .wc-app audio, .wc-app video {display: block;}
 
 #bot {overflow: hidden;position: absolute;right: 0;left: 0;top: 0; bottom: 0;  margin:auto ;  width:700px; height:746px; background: url(../image/cj_chat01.png) no-repeat 0px 0px; padding-left:78px}
+
+.cjLinkBtn{
+  background: url(../image/cj_azure_search_btd.png) no-repeat;
+  position: absolute;
+  top: 24%;
+  left: 22%;
+  width: 142px;
+  height: 142px;
+  transform: translateX(20%);
+}
+
+
 /* docking */
 .wc-hidden {visibility: hidden;}
 .wc-header {left: 0; padding: 8px 8px 0 8px;position: absolute;right: 0;top: 0;z-index: 1; }
@@ -570,15 +582,6 @@ html { scrollbar-arrow-color: #3f3f3f; scrollbar-Track-Color: #93adcb; scrollbar
 .wc-header .btn_home { position:absolute; right:10px; top:7px width:22px; height:19px; background:url(../image/home.png) no-repeat; display:inline-block; z-index:999; margin-top:5px }
 .wc-header .btn_home :hover{ background:url(../image/home_hover.png) no-repeat}
 
-.cjLinkBtn{
-  background: url(../image/cj_azure_search_btd.png) no-repeat;
-  position: absolute;
-  top: 24%;
-  left: 22%;
-  width: 142px;
-  height: 142px;
-  transform: translateX(20%);
-}
 
 
 
