@@ -22,15 +22,7 @@ body .wc-app, .wc-app button, .wc-app input, .wc-app textarea {font-family: 'Seg
 
 #bot {overflow: hidden;position: absolute;right: 0;left: 0;top: 0; bottom: 0;  margin:auto ;  width:700px; height:746px; background: url(../image/cj_chat01.png) no-repeat 0px 0px; padding-left:78px}
 
-#cjLinkBtn{
-  background: url(../image/cj_azure_search_btd.png) no-repeat;
-  position: absolute;
-  top: 24%;
-  left: 22%;
-  width: 142px;
-  height: 142px;
-  transform: translateX(20%);
-}
+
 
 
 /* docking */
@@ -583,7 +575,15 @@ html { scrollbar-arrow-color: #3f3f3f; scrollbar-Track-Color: #93adcb; scrollbar
 .wc-header .btn_home :hover{ background:url(../image/home_hover.png) no-repeat}
 
 
-
+#cjLinkBtn{
+  background: url(../image/cj_azure_search_btd.png) no-repeat;
+  position: absolute;
+  top: 24%;
+  left: 22%;
+  width: 142px;
+  height: 142px;
+  transform: translateX(20%);
+}
 
 
 
