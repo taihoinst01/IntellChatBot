@@ -670,13 +670,3 @@ body .wc-app, .wc-app button, .wc-app input, .wc-app textarea {
 .wc-app ::-webkit-scrollbar-thumb {
   background-color: #dbdee1;
 }
-
-.cjLinkBtn{
-  background: url(../image/cj_azure_search_btd.png) no-repeat;
-  position: absolute;
-  top: 24%;
-  left: 22%;
-  width: 142px;
-  height: 142px;
-  transform: translateX(20%);
-}

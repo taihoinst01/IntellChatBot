@@ -22,7 +22,7 @@ body .wc-app, .wc-app button, .wc-app input, .wc-app textarea {font-family: 'Seg
 
 #bot {overflow: hidden;position: absolute;right: 0;left: 0;top: 0; bottom: 0;  margin:auto ;  width:700px; height:746px; background: url(../image/cj_chat01.png) no-repeat 0px 0px; padding-left:78px}
 
-.cjLinkBtn{
+#cjLinkBtn{
   background: url(../image/cj_azure_search_btd.png) no-repeat;
   position: absolute;
   top: 24%;
